@@ -8,7 +8,7 @@ const Detay = (props) => {
     <View style={styles.containerStyle}>
 
       <View style={styles.subContainerStyle}>
-        <Text>{props.data.title} </Text>
+        <Text style={styles.titleStyle}>{props.data.title} </Text>
       </View>
 
       <View style={styles.subContainerStyle}>

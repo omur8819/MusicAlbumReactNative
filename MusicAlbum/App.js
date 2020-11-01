@@ -6,7 +6,7 @@ import Liste from './src/components/Liste';
 const App = () => {
   return(
   <View style={{flex: 1 }}>
-    <Header headerText={'Tylor Swift Music Albums'}  />
+    <Header headerText={'TYLOR SWIFT MUSIC ALBUMS'}  />
     <Liste />
   </View>
 
